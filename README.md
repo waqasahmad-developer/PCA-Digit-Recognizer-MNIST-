@@ -4,7 +4,7 @@ This repository explores the impact of Principal Component Analysis (PCA) on the
 # Workflow
 Train KNN on Full Dataset
 
-Train a KNN model using all features (784 pixels).
+> Train a KNN model using all features (784 pixels).
 > Measure and record the training time and accuracy.
 > Train KNN with 200 Principal Components
 
